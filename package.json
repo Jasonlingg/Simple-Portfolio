@@ -1,6 +1,6 @@
 {
   "name": "jasons-portfolio",
-  "homepage": "https://Jasonlingg.github.io/jasons-portfolio",
+  "homepage": "https://Jasonlingg.github.io/Simple-Portfolio",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
