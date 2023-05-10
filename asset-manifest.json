@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Simple-Portfolio/static/css/main.4d33b61f.css",
+    "main.js": "/Simple-Portfolio/static/js/main.d3d1d672.js",
+    "static/js/787.d931acd0.chunk.js": "/Simple-Portfolio/static/js/787.d931acd0.chunk.js",
+    "static/media/Personal-background.jpg": "/Simple-Portfolio/static/media/Personal-background.e005629465fb8b9e7fa6.jpg",
+    "static/media/University-Waterloo-logo.png": "/Simple-Portfolio/static/media/University-Waterloo-logo.4f899ab4e8198a3ba480.png",
+    "index.html": "/Simple-Portfolio/index.html",
+    "main.4d33b61f.css.map": "/Simple-Portfolio/static/css/main.4d33b61f.css.map",
+    "main.d3d1d672.js.map": "/Simple-Portfolio/static/js/main.d3d1d672.js.map",
+    "787.d931acd0.chunk.js.map": "/Simple-Portfolio/static/js/787.d931acd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d33b61f.css",
+    "static/js/main.d3d1d672.js"
+  ]
+}
