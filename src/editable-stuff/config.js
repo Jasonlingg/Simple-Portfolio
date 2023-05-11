@@ -19,7 +19,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("./University-Waterloo-logo.png"),
+  imageLink: require("./pfp.jpg"),
   imageSize: 375,
   message:
     "Hello! I am in my first year studying Systems Design Engineering at the University of Waterloo, with a HUGE passion for data and software. I'm very multidisciplinary; I love problem-solving and solutioning. Aside from tech, I enjoy sports and fitness, love meeting new people, and I am extremely open-minded. Feel free to connect with me on linkedIn, or send me an email!",
